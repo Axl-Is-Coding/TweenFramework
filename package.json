@@ -1,0 +1,38 @@
+{
+  "name": "tween-framework-web",
+  "version": "1.0.0",
+  "description": "A powerful web animation framework with familiar game-engine style tweening API",
+  "main": "src/TweenFramework.js",
+  "files": [
+    "src/",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "animation",
+    "tween",
+    "tweening",
+    "roblox",
+    "web-animation",
+    "javascript",
+    "css-animation",
+    "easing",
+    "transform"
+  ],
+  "author": "Your Name <dhanaxlmaglinte@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Axl-Is-Coding/TweenFramework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Axl-Is-Coding/TweenFramework/issues"
+  },
+  "homepage": "https://github.com/Axl-Is-Coding/TweenFramework#readme",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
