@@ -1,8 +1,11 @@
 {
-  "name": "tween-framework-web",
+  "name": "@axl-is-coding/tween-framework-web",
   "version": "1.0.0",
   "description": "A powerful web animation framework with familiar game-engine style tweening API",
   "main": "src/TweenFramework.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "files": [
     "src/",
     "README.md"
